@@ -1,4 +1,5 @@
 # BYTEUPRISE_ML_03
+Cat and Dog Image Classification with Support Vector Machine (SVM)
 # Cat and Dog Image Classification with Support Vector Machine (SVM)
 This project implements an image classification model using Support Vector Machine (SVM) to categorize images of cats and dogs. The SVM model is trained on the Kaggle dataset containing labeled images of cats and dogs, enabling accurate classification of new images.
 
