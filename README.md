@@ -3,6 +3,7 @@
 This project implements an image classification model using Support Vector Machine (SVM) to categorize images of cats and dogs. The SVM model is trained on the Kaggle dataset containing labeled images of cats and dogs, enabling accurate classification of new images.
 
 # Dataset
+Dataset URL: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
 The dataset used for this project is the Dog and Cat Classification Dataset from Kaggle. The dataset consists of images of cats and dogs stored in separate directories under /content/PetImages.
 
 # Project Overview
