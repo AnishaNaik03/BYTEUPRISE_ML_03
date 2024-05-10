@@ -4,7 +4,6 @@ This project implements an image classification model using Support Vector Machi
 
 # Dataset
 Dataset URL: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
-The dataset used for this project is the Dog and Cat Classification Dataset from Kaggle. The dataset consists of images of cats and dogs stored in separate directories under /content/PetImages.
 
 # Project Overview
 The project includes the following steps:
